@@ -1,0 +1,13 @@
+(a) \n          -  Escape Sequence 
+(b) 3.145       -  Real Constant  
+(c) -6513       -  Integer Constant
+(d) ’D’         -  Character Constant
+(e) 4.25e-3     -  Exponential Form
+(f) main( )     -  Function
+(g) %f, %d, %c  -  Format Specifier
+(h) ;           -  Statement Terminator
+(i) Constant    -  Literal
+(j) Variable    -  Identifier
+(k) &           -  Address of Operator
+(l) printf( )   -  Output Function
+(m) scanf( )    -  Input Function
